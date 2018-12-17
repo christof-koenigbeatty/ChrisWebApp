@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <widget version="1.0.0">
-    <name>App-Name</name>
+    <name>Chris-App!</name>
     <description>
-        App-Beschreibung
+        Dies ist Christof König Beatty's erste WebApp
     </description>
     <author>
-        Dein Name
+        Christof König Beatty
     </author>
 
     <!-- General settings -->
